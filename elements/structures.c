@@ -1,4 +1,4 @@
-/*
+w/*
  * Physical structures, like boxes and walls.
  */
 
